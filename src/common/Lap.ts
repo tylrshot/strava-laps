@@ -1,4 +1,4 @@
-interface Lap {
+type Lap = {
     distance: number,
     time: number
 }
